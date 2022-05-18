@@ -30,8 +30,7 @@ Things I could have done better:
 - Rename the '.env.example' file to .env, and change the configuration as per your machine.
 - Run your server (eg: using XAMMP which was used for this project), and create a database by the same name as per the .env file.
 - Using your terminal, run 'php artisan key:generate' (if there is no key yet) and run 'php artisan migrate'
-- Run php artisan db:seed to seed the database with initial data
-- run your app with 'php artisan serve'
+- Finally, run your app with 'php artisan serve'
 - Feel free to add your own personal movie reviews!
 
 # Screenshots
