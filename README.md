@@ -10,8 +10,8 @@ Besides applying what I've learned, I could use any resource online to complete 
 I chose to make a personal movie review app with CRUD and pagination features, styled using Bootstrap!
 
 # Features:
-CRUD Table
-Pagination with Bootstrap
+- CRUD Table with a simple Database
+- Pagination with Bootstrap
 
 # Reflection
 While this attempt is better than the React assessment, it is still learning under trial by fire.
@@ -32,6 +32,7 @@ Things I could have done better:
 - Using your terminal, run 'php artisan key:generate' (if there is no key yet) and run 'php artisan migrate'
 - Run php artisan db:seed to seed the database with initial data
 - run your app with 'php artisan serve'
+- Feel free to add your own personal movie reviews!
 
 # Screenshots
 
